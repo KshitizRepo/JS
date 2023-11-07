@@ -1,0 +1,4 @@
+// === is used for strict check and it will compare the data type also
+// == only compares the value and convert the data type by itself for example
+// "2" == 2 will give us true because it will change the datatype and "2" === 2 will return false as 
+// of different data types
